@@ -1,0 +1,79 @@
+body{
+    background-image: url("images/matt-mariannelli-_DzD0q2jpAs-unsplash.jpg") !important;
+    min-height: 100vh;
+
+}
+form{
+    border: 1px !important;
+    width: 100%;
+    border: 5px solid wheat !important; 
+    padding: 20px; 
+    align-self: center !important;
+    size: 40% !important;
+      
+}
+.form-control{
+    padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid wheat!important;
+  border-radius: 4px;
+}
+.navbar {
+    padding-inline: 10rem !important;
+    font-size: small;
+}
+.navbar-brand{
+    font-size: x-large !important;
+    font-style: italic;
+}
+
+
+a {
+    color: skyblue !important;
+    font-size: larger;
+    font-weight: bolder;
+    margin-left: 3rem;
+}
+
+.btn {
+    background-color: skyblue !important;
+    color: white !important;
+    font-size: large !important;
+    font-weight: bolder !important;
+    border-radius: 50px !important;
+}
+
+.card {
+    width: 18rem !important;
+}
+
+#update {
+    background-color: yellowgreen;
+    border-radius: 25px;
+}
+
+#delete {
+    background-color: red !important;
+    border-radius: 25px;
+}
+h3{
+    font-style: italic;
+
+}
+footer{
+    color:skyblue;
+}
+
+.btn {
+    background-color: skyblue;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #ff2d55 !important;
+}

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Social match and meet App</title>
+    <link rel="icon" type="image/x-icon" href="./images/android-chrome-512x512.png"/>
+    <link rel="stylesheet" href="style.css"/>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+</head>
+<body>
+    <main class="container">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container-fluid">
+              <a class="navbar-brand" href="#">Social Match & Meet App</a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">Serious Relationships</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Short-time Relationships</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Testmonials</a>
+                  </li>
+                </ul>
+                
+              </div>
+            </div>
+        </nav>
+
+        <!-- section -->
+        <section>
+            <!-- form -->
+            <form class="m-4" id="profile-form">
+                <h3>Create profile</h3>
+                <div class="mb-3">
+                  <label for="name" class="form-label">Enter your name:</label>
+                  <input type="text" class="form-control" id="name"  required>
+                </div>
+                <div class="mb-3">
+                    <label for="age" class="form-label">Enter your age:</label>
+                    <input type ="number" class="form-control" placeholder="18+" min ="18" id="age" required>
+                </div>
+                <div class="mb-3">
+                  <label for="age" class="form-label">Describe your gender:</label>
+                  <input type="text" class="form-control" id="gender"  required>
+                
+                </div>
+                <div class="mb-3">
+                    <label for="name" class="form-label">Select  the phrase that best describes your relationship status:</label>
+                  <input type="text" class="form-control" id="status"  required>
+                    
+                </div>
+                <div class="mb-3">
+                    <label for="reside" class="form-label">Where do you reside currently:</label>
+                    <input type="text" class="form-control" id="reside"  required>
+                </div>
+                <div class="mb-3">
+                  <label for="story" class="form-label">Tell your short story:</label>
+                  <input type="text" class="form-control" id="story"  required>
+              </div>
+              <div class="mb-3">
+                <label for="image" class="form-label">Upload your image:</label>
+                <input type ="url" class="form-control" id="image" >
+            </div>
+                <div class="mb-3">
+                    <label for="mobile" class="form-label">Mobile:</label>
+                    <input type="number" class="form-control" id="mobile"  required>
+                </div>
+                <button type="submit" class="btn">Submit</button>
+              </form>
+              <div>
+                <ul class="row" id="item-list">
+                  <!-- add profiles -->
+                </ul>
+              </div>
+        </section>
+    </main>
+    <footer>
+      <p>This site is under-development</p>
+    </footer>
+    <script src="indexx.js"></script>
+
+    </body>
+    </html>

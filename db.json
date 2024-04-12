@@ -1,0 +1,81 @@
+{
+  "profiles": [
+    {
+      "name": "Nehandra Modi",
+      "age": "28",
+      "gender": "male",
+      "status": "Its complicated",
+      "reside": "Umoja",
+      "story": "Love lies in the eyes of the .....beholder",
+      "image": "https://previews.123rf.com/images/muralinathypr/muralinathypr1206/muralinathypr120600010/14335000-smiling-cute-indian-boy.jpg",
+      "mobile": "89100191828",
+      "id": "e926"
+    },
+    {
+      "id": "6073",
+      "name": "Shadrack  O",
+      "age": "24",
+      "gender": "female",
+      "status": "Married but available",
+      "reside": "Kiambu",
+      "story": "Great fan of United",
+      "image": "https://media.istockphoto.com/id/1248293980/photo/womans-hands-using-smartphone-with-neon-pink-slime-toy-on-orange-pop-art-backgound.jpg?s=1024x1024&w=is&k=20&c=PAAFzy852QadgIkqZt86Hc2COHCI4WBm-GjPw7ocO7A=",
+      "mobile": "0725708054"
+    },
+    {
+      "id": "e2a1",
+      "name": "Abraham Ogoti",
+      "age": "34",
+      "gender": "male",
+      "status": "Single",
+      "reside": "Kitui",
+      "story": "A cool guy no doubt",
+      "image": "https://media.istockphoto.com/id/1575170837/photo/girlfriend-receiving-flowers-from-her-virtual-boyfriend-texting-on-the-phone.jpg?s=1024x1024&w=is&k=20&c=jUVIm9aKyoewFnxiNvddhob4NglyGBUhqM4zGkv9eEg=",
+      "mobile": "0789902231"
+    },
+    {
+      "id": "da06",
+      "name": "Abrahm Kerich",
+      "age": "28",
+      "gender": "male",
+      "status": "Open relationship",
+      "reside": "Eldoret",
+      "story": "Just do the right thing",
+      "image": "https://previews.123rf.com/images/muralinathypr/muralinathypr1902/muralinathypr190201566/117869627-portrait-of-indian-little-boy-posing-to-camera-with-expression.jpg",
+      "mobile": "0704612880"
+    },
+    {
+      "id": "6313",
+      "name": "Tellef TF",
+      "age": "22",
+      "gender": "male",
+      "status": "Engaged cassually",
+      "reside": "Lamu",
+      "story": "Great fun of honest conversations",
+      "image": "https://previews.123rf.com/images/adsniks/adsniks1905/adsniks190502379/124972646-cute-indian-child-wear-sunglasses.jpg",
+      "mobile": "09872345"
+    },
+    {
+      "id": "227b",
+      "name": "Roselyne",
+      "age": "56",
+      "gender": "female",
+      "status": "married",
+      "reside": "kisumu",
+      "story": "God above us all",
+      "image": "https://media.istockphoto.com/id/1369508766/photo/beautiful-successful-latin-woman-smiling.jpg?s=1024x1024&w=is&k=20&c=AzqHGt31gTv2CY9bF0VGinj49Nuld3YpEDInC2V7R9k=",
+      "mobile": "0701981745"
+    },
+    {
+      "id": "fbec",
+      "name": "Edwin Oigo",
+      "age": "34",
+      "gender": "male",
+      "status": "Married but single",
+      "reside": "Nakuru",
+      "story": "Love is a lie",
+      "image": "https://plus.unsplash.com/premium_photo-1665929001759-be3a55a0ce3a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxfHx8ZW58MHx8fHx8",
+      "mobile": "0725848843"
+    }
+  ]
+}
